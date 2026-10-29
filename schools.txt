@@ -1,0 +1,137 @@
+name,chiefdom_name,region
+St Mark's School,,Hhohho
+Waterford Kamhlaba United World College,,Hhohho
+Ka-Schiele High School,,Hhohho
+Sifundzani Primary School,,Hhohho
+Sifundzani High School,,Hhohho
+Cedusizi Primary School,,Hhohho
+Entuthukweni Primary School,,Hhohho
+Ka-Boyce High School,,Hhohho
+Mbabane Central Primary School,,Hhohho
+Nhlanganisweni High School,,Hhohho
+St Francis High/Primary School,,Hhohho
+John Wesley Primary/Secondary School,,Hhohho
+SOS Hermann Gmeiner High/Primary School,,Hhohho
+Mater Dolorosa High School,,Hhohho
+Mater Dolorosa Primary School,,Hhohho
+Mqolo Primary School,,Hhohho
+Montessori Life Primary,,Hhohho
+Hlanganani Pre-Primary & Primary School,,Hhohho
+Mhlatane High School,,Hhohho
+Peak Central High School,,Hhohho
+Lobamba National High School,Lobamba,Hhohho
+Endzingeni Nazarene High School,Ndzingeni,Hhohho
+Endzingeni Nazarene Primary School,Ndzingeni,Hhohho
+Sikhunyana High School,,Hhohho
+Nkambeni Primary School,,Hhohho
+Mangedla Primary School,,Hhohho
+Madlangampisi Nazarene Primary School,Madlangempisi,Hhohho
+Madlangampisi High School,Madlangempisi,Hhohho
+Ekwaleni Primary School,,Hhohho
+Engowane Primary School,,Hhohho
+Mbeka Primary School,,Hhohho
+Maguga Primary School,,Hhohho
+Ekubongweni High School,,Hhohho
+Ntsinini High School,,Hhohho
+Mlumati High and Primary School,,Hhohho
+St. John Bosco High School for Boys,,Hhohho
+Inkhanyeti School,,Manzini
+Alnoor International School,,Manzini
+St Paul's High School,,Manzini
+St Theresa's Girls High School,,Manzini
+St Theresa's Girls Primary School,,Manzini
+St Michael's High Girls High School,,Manzini
+Salesian Primary School for Boys,,Manzini
+Salesian High School for Boys,,Manzini
+Ngwane Park High School,,Manzini
+Manzini Infant Primary School,,Manzini
+Manzini Central High School,,Manzini
+Enjabulweni School,,Manzini
+Manzini Nazarene High School,,Manzini
+Manzini Nazarene Primary School,,Manzini
+Manzini Nazarene Practising Primary School,,Manzini
+Mjingo High School for Girls,Mjingo,Manzini
+Lobamba Lomdzala High School,,Manzini
+Swazi National High School,,Manzini
+Khanyisile Primary School,,Manzini
+Mvimbeko High School,Ntondozi,Manzini
+Mhubhe High School,,Manzini
+St Philomena Primary School,,Manzini
+Franson Christian High School,,Shiselweni
+Our Lady of Sorrows High School,,Shiselweni
+Florence Christian Academy,,Shiselweni
+Evelyn Baring High School,,Shiselweni
+Mahamba High School,,Shiselweni
+Hlatikhulu Central High School,,Shiselweni
+Ngwane Central High School,,Shiselweni
+Velebantfu High School,,Shiselweni
+Salem High School,,Shiselweni
+Hluti Central High School,,Shiselweni
+Edwaleni High School,,Shiselweni
+Kalamdladla High School,,Shiselweni
+Ntshanini High School,,Shiselweni
+Nhlangano Central High School,,Shiselweni
+Ebenezer High School,,Shiselweni
+Ndabazezwe High School,,Shiselweni
+Nsongweni High School,,Shiselweni
+Masiphula High School,,Shiselweni
+Eric Rosenberg High School,,Shiselweni
+Mbukwane High School,,Shiselweni
+Nyamane High School,,Shiselweni
+Magubheleni High School,,Shiselweni
+Christ the King High School,,Shiselweni
+Elulakeni High School,,Shiselweni
+Nkwene High School,Nkwene,Shiselweni
+Nhletjeni High School,,Shiselweni
+Ekuthuleni High School,,Shiselweni
+Makhonza High School,,Shiselweni
+Hosea High School,Hosea,Shiselweni
+Madulini High School,,Shiselweni
+Kamazombizwe High School,,Shiselweni
+Engudzeni High School,,Shiselweni
+Jerusalem High School,,Shiselweni
+Jericho High School,,Shiselweni
+Ngololweni High School,Ngololweni,Shiselweni
+Mantambe High School,,Shiselweni
+Ekuphakameni Community High School,,Shiselweni
+Esandleni High School,,Shiselweni
+Mshengu High School,,Shiselweni
+Edoropeni High School,,Shiselweni
+Makhosini High School,,Shiselweni
+Nzongomane High School,,Shiselweni
+Ezindwendweni High School,,Shiselweni
+Oslo High School,,Shiselweni
+Siyendle High School,,Shiselweni
+Enkhungwini High School,,Shiselweni
+Matsanjeni High School,Matsanjeni,Shiselweni
+Qomintaba High School,Qomintaba,Shiselweni
+Etjendlovu High School,,Shiselweni
+Ndunayithini High School,,Shiselweni
+Sokhonjiwe High School,,Shiselweni
+Mpakeni High School,,Shiselweni
+Mlambo High School,,Shiselweni
+Thembelihle High School,,Shiselweni
+Makahava High School,,Shiselweni
+Free Evangelical Assemblies High School,,Shiselweni
+Kamzila Community High School,,Shiselweni
+Mbowane High School,,Shiselweni
+Ntjanini/Mhawu High School,Ntjanini,Shiselweni
+Diamond Valley Academy,,Shiselweni
+Mbhoke TX Foundation High School,,Shiselweni
+Yuan Tong High School,,Shiselweni
+Mlindzini High School,,Shiselweni
+Eqinisweni High School,,Shiselweni
+Mpatheni High School,,Shiselweni
+Kaphunga Seventh Day Adventist High School,Kaphunga,Shiselweni
+Lubombo Central High School,,Lubombo
+Mphundle Secondary School,,Lubombo
+Mhlume High School,Mhlume,Lubombo
+Mhlume Primary School,Mhlume,Lubombo
+Thembelisha Preparatory School,,Lubombo
+Sisekelo High School,,Lubombo
+U-TECH School of Technology,,Lubombo
+Ubombo Primary School,,Lubombo
+Siteki Nazarene High School,,Lubombo
+St. Joseph's School,,Lubombo
+Ngomane High School,,Lubombo
+Metropolitan International College,,Lubombo

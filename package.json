@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "supabase": "^2.105.0"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "latest",
+    "chart.js": "latest"
+  }
+}
